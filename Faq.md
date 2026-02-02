@@ -195,6 +195,8 @@ If you see “No course enrolled”:
 
 - Log out and log in again once.
 
+- Use personal wifi instead of college wifi as there might be some network restrictions of access.
+
 - If the issue continues, contact support with your registered email ID and a screenshot.
 
 **7.3 Why are videos stuck or repeating?**  
